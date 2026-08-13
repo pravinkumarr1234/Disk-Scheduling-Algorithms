@@ -1,0 +1,4 @@
+C-SCAN Disk Scheduling
+Initial Head Position : 53
+Head moves in one direction.
+After reaching the end, it returns to the beginning.
